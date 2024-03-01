@@ -29,6 +29,3 @@ def main() -> None:
 
     # Start the Bot
     updater.start_polling()
-
-    # Run the bot until you press Ctrl-C
-    updater.idle()
