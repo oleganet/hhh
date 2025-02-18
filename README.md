@@ -28,3 +28,4 @@ def main() -> None:
     dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, echo))
     gigi
 gtr
+bin step 100
