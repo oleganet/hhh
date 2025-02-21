@@ -30,3 +30,4 @@ def main() -> None:
 gtr
 bin step 100
 meteora
+mmm bybit
